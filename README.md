@@ -1,5 +1,5 @@
 
-# University Course Application C#
+# Course Assistant Application C#
 
 Advanced application for students to prepare for exams and keep track of their courses.
 
